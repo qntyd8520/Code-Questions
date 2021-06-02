@@ -18,6 +18,7 @@ public class Main01 {
 			
 		}
 		
+		// 테스트으으응으으으
 		
 		for(int i=0;i<list.size(); i++) {
 			ImageItem item = list.get(i);
